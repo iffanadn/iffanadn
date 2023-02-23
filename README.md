@@ -9,6 +9,7 @@ I am currently pursuing a bachelor's degree in informatics engineering at Mercu 
 ### Tech Stack
 <a href="#"><img align="left" alt="HTML" title="HTML" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" /></a>
 <a href="#"><img align="left" alt="CSS" title="CSS" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" /></a>
+<a href="#"><img align="left" alt="Javascript" title="Javascript" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" /></a>
 <a href="#"><img align="left" alt="Python" title="Python" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" /></a>
   <br>
   <br>
